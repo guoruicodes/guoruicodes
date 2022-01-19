@@ -56,8 +56,8 @@ Thank you
 ## Experience
 
 ### Devops Engineer @ [Undisclosed]  2021-date  
-    Summary: MIgration from on prem to AWS kubernetes  
-    Docker, Kubernetes, Helm, AWS, GCP  
+    Summary: Migration from on prem to AWS kubernetes  
+    Docker, Kubernetes, Helm, AWS
     Python, Ruby  
 
 ### Software Developer @ ElectroRoute (Mitsubishi Corporation) 2019 – 2021  
