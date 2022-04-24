@@ -2,13 +2,6 @@ Ruì 瑞 Guǒ 果
 code22@guorui.codes
 
 # Summary
-I was given a Chinese name some time ago by a Chinese friend.  
-I've currently adopted it's usage online in preference to my given name  
-in an effort to tackle what seems to be rising hate crimes against people  
-of Asian descent at this volatile time.  
-For English speakers, it’s approximate pronunciation is  
-"Gu-Oh Roo-Ay"  
-Thank you  
 
 ### Developer:
     Front end, back end, database  
